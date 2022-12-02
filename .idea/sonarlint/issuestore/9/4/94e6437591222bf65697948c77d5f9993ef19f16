@@ -1,0 +1,24 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+š
+java:S1192."ƒDefine a constant instead of duplicating this literal "Ğ©Ğ¾Ğ± Ğ·Ğ°Ğ²ĞµÑ€ÑˆĞ¸Ñ‚Ğ¸ Ğ´Ğ¾Ğ´Ğ°Ğ²Ğ°Ğ½Ğ½Ñ Ğ²Ğ²ĞµĞ´Ñ–Ñ‚ÑŒ 0 !!!!" 3 times.(Â†ß
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ûñ
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰Œ®
+7
+java:S16436"Use a StringBuilder instead.(¹¦å»şÿÿÿÿ
+7
+java:S1643I"Use a StringBuilder instead.(†»úşÿÿÿÿ
+1
+java:S1643["Use a StringBuilder instead.(Æµë{
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ÌŠ¤
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¹òÙ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(î¹òÙ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«’ÌÖ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¢ŠæÂ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Â†ß
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(şû
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(º±·„ıÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(ˆÅè
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(Ä¿Âüÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ŸÅ‡ÿÿÿÿÿ

@@ -1,7 +1,5 @@
 package com.QrIzZ.bookOfRecipes.bl.Recipe;
-
 import static com.QrIzZ.bookOfRecipes.da.TextWriter.writingTextToFile;
-
 import com.QrIzZ.bookOfRecipes.da.TextReader;
 import com.QrIzZ.bookOfRecipes.ui.mainMenu;
 import java.io.File;
@@ -93,6 +91,7 @@ public class ReceptConstructor {
             Harakteristik += scanner.nextLine() + '\n';
             System.out.println((number+1) + ") Критерій додано. ");
             number++;
+
          }
       }
       result += Harakteristik;
@@ -100,7 +99,9 @@ public class ReceptConstructor {
       /**  Поле яке зберігає шлях до файлу, в який здійсниться запис даних */
       File file = new File("Resourses/"+files[el]);
       writingTextToFile(file, text, result);
+      mainMenu.main();
    }
+
 
 
 

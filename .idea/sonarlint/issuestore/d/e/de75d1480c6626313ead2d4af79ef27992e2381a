@@ -1,38 +1,37 @@
 
-a	java:S112ô"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
 g
-java:S1192—"KDefine a constant instead of duplicating this literal "Ğ’Ğ¸Ñ…Ñ–Ğ´" 3 times.(³¤ôÈúÿÿÿÿ
+java:S1192“"KDefine a constant instead of duplicating this literal "Ğ’Ğ¸Ñ…Ñ–Ğ´" 3 times.(³¤ôÈúÿÿÿÿ
 s
-java:S1192Y"XDefine a constant instead of duplicating this literal "Ğ“Ğ¾Ğ»Ğ¾Ğ²Ğ½Ğµ Ğ¼ĞµĞ½Ñ" 4 times.(©Øÿòøÿÿÿÿ
+java:S1192U"XDefine a constant instead of duplicating this literal "Ğ“Ğ¾Ğ»Ğ¾Ğ²Ğ½Ğµ Ğ¼ĞµĞ½Ñ" 4 times.(©Øÿòøÿÿÿÿ
 z
-java:S1192V"dDefine a constant instead of duplicating this literal "â–£=============================â–£" 4 times.(û²™æ
+java:S1192R"dDefine a constant instead of duplicating this literal "â–£=============================â–£" 4 times.(û²™æ
 g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«­½Õùÿÿÿÿ
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìáŠâûÿÿÿÿ
-t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹õÍÄıÿÿÿÿ
 U
 java:S1118":Add a private constructor to hide the implicit public one.(«­½Õùÿÿÿÿ
-S	java:S106""9Replace this use of System.out or System.err by a logger.(´á¡²şÿÿÿÿ
-M
-java:S6126""2Replace this String concatenation with Text block.(´á¡²şÿÿÿÿ
-K
-java:S2209'"5Change this instance-reference to a static reference.(¦Ìİ½
-M	java:S106("9Replace this use of System.out or System.err by a logger.(ƒ³ßw
-S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ä¸¨üÿÿÿÿ
-S	java:S106,"9Replace this use of System.out or System.err by a logger.(Øëå„ùÿÿÿÿ
-N	java:S106-"9Replace this use of System.out or System.err by a logger.(È§¨®
-N	java:S106."9Replace this use of System.out or System.err by a logger.(­óÜÀ
-N	java:S106O"9Replace this use of System.out or System.err by a logger.(¬ñÇÆ
-N	java:S106V"9Replace this use of System.out or System.err by a logger.(û²™æ
-H
-java:S6126V"2Replace this String concatenation with Text block.(û²™æ
-N	java:S106["9Replace this use of System.out or System.err by a logger.(‰ª›ª
-a
-java:S1764^"KCorrect one of the identical sub-expressions on both sides of operator "=="(”´”Ÿ
-N	java:S106d"9Replace this use of System.out or System.err by a logger.(’º˜
-N	java:S106g"9Replace this use of System.out or System.err by a logger.(¤­¯
-<	java:S131s""Add a default case to this switch.(è·ıúüÿÿÿÿ
-T	java:S106Ò"9Replace this use of System.out or System.err by a logger.(ˆ¥ù÷úÿÿÿÿ
-O	java:S106Ö"9Replace this use of System.out or System.err by a logger.(‰ª›ª
-D	java:S108ä")Either remove or fill this block of code.(åÍÕÊıÿÿÿÿ
-O	java:S106"9Replace this use of System.out or System.err by a logger.(”—ıÚ
-T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´á¡²şÿÿÿÿ
+T
+java:S6126"2Replace this String concatenation with Text block.(´á¡²şÿÿÿÿ8ş¿ÀÍ0
+R
+java:S2209#"5Change this instance-reference to a static reference.(¦Ìİ½8€ÀÀÍ0
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(ƒ³ßw
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Ä¸¨üÿÿÿÿ8„ÀÀÍ0
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Øëå„ùÿÿÿÿ
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(È§¨®8ŠÀÀÍ0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(­óÜÀ8ÀÀÍ0
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(¬ñÇÆ8½ÀÀÍ0
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(û²™æ8ÁÀÀÍ0
+O
+java:S6126R"2Replace this String concatenation with Text block.(û²™æ8ÂÀÀÍ0
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(‰ª›ª8ÉÀÀÍ0
+h
+java:S1764Z"KCorrect one of the identical sub-expressions on both sides of operator "=="(”´”Ÿ8ÎÀÀÍ0
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(’º˜8ÕÀÀÍ0
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(¤­¯8İÀÀÍ0
+C	java:S131o""Add a default case to this switch.(è·ıúüÿÿÿÿ8áÀÀÍ0
+[	java:S106Î"9Replace this use of System.out or System.err by a logger.(ˆ¥ù÷úÿÿÿÿ8ÕÁÀÍ0
+V	java:S106Ò"9Replace this use of System.out or System.err by a logger.(‰ª›ª8âÁÀÍ0
+K	java:S108à")Either remove or fill this block of code.(åÍÕÊıÿÿÿÿ8èÁÀÍ0
+V	java:S106ı"9Replace this use of System.out or System.err by a logger.(”—ıÚ8÷ÁÀÍ0
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

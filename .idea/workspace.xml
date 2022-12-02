@@ -10,37 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32b3cc84-b8c8-439a-8f80-62c0321b5186" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/BookOfRecipes_main_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookOfRecipes-main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/bytes_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/bytes_1_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookOfRecipes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BookOfRecipes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resourses/DinnerRecpes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Resourses/DinnerRecpes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resourses/ForEveryDay.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resourses/SupperRecipes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Resourses/SupperRecipes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/380a91452d24b831305da6c8a5e9343d42c970fd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67f28b654b46fb2cf7cc1cc45936fdcb73b36e15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a87225f5f5486ce8831ea8174429efd56680564" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d181677036e9ccb569b2e8d0e4b71a4b7cd385c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a28215a2b5b5f2f5be17c7e667ee15b52b61dea5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afd29438f5a9950c9678aacd6106972c7abbccef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b79ebf61a7e1510ec6b81dec4ee3df5a498ed761" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de75d1480c6626313ead2d4af79ef27992e2381a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resourses/Breakfast.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Resourses/Breakfast.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Users.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BookOfRecipes/com/QrIzZ/bookOfRecipes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BookOfRecipes/com/QrIzZ/bookOfRecipes/Recipe/ReceptReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BookOfRecipes/com/QrIzZ/bookOfRecipes/Recipe/TextReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BookOfRecipes/com/QrIzZ/bookOfRecipes/Recipe/UserChoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BookOfRecipes/com/QrIzZ/bookOfRecipes/byUsers/AuthorizationUsers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BookOfRecipes/com/QrIzZ/bookOfRecipes/byUsers/Register.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BookOfRecipes/com/QrIzZ/bookOfRecipes/byUsers/RegistrationUsers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BookOfRecipes/com/QrIzZ/bookOfRecipes/mainMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/Recipe/ReceptReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/Recipe/TextReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/Recipe/UserChoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/byUsers/AuthorizationUsers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/byUsers/RegistrationUsers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/mainMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BookOfRecipes-main/com/QrIzZ/bookOfRecipes/bl/Recipe/ReceptConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BookOfRecipes-main/com/QrIzZ/bookOfRecipes/bl/Recipe/ReceptConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BookOfRecipes-main/com/QrIzZ/bookOfRecipes/ui/mainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BookOfRecipes-main/com/QrIzZ/bookOfRecipes/ui/mainMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/bl/Recipe/ReceptConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/bl/Recipe/ReceptConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/ui/mainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/QrIzZ/bookOfRecipes/ui/mainMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,23 +43,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Serhi/OneDrive/Робочий стіл/bcrypt-0.9.0.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2850575",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Serhi/IdeaProjects/BookOfRecipes-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2850575&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,6 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1669931632223</updated>
       <workItem from="1669931675709" duration="2004000" />
+      <workItem from="1669935576838" duration="11667000" />
+      <workItem from="1669949825346" duration="874000" />
     </task>
     <servers />
   </component>
