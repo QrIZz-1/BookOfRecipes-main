@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.QrIzZ.bookOfRecipes"},{"l":"com.QrIzZ.bookOfRecipes.bl.Recipe"},{"l":"com.QrIzZ.bookOfRecipes.bl.UserData"},{"l":"com.QrIzZ.bookOfRecipes.da"},{"l":"com.QrIzZ.bookOfRecipes.ui"}];updateSearchResults();
